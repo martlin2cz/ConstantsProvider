@@ -1,0 +1,10 @@
+#ConstantsProvider constants file
+#Sun Mar 06 23:56:07 CET 2016
+cz.martlin.cptesting.AdminUserData.expires=Ned\u011Ble, 11. b\u0159ezna 2016
+cz.martlin.cptesting.SomeServerConfig.logfile=logs.txt
+cz.martlin.cptesting.AdminUserData.password_hash=1010101010101010
+cz.martlin.cptesting.SomeServerConfig.host=example.com
+cz.martlin.cptesting.SomeServerConfig.home=https\://example.com/home/about
+cz.martlin.cptesting.SomeServerConfig.cfg=app-config.json
+cz.martlin.cptesting.AdminUserData.admin_name=admininistrator
+cz.martlin.cptesting.SomeServerConfig.port=9090

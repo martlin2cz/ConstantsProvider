@@ -1,0 +1,5 @@
+#ConstantsProvider constants file
+#Sun Mar 06 23:17:46 CET 2016
+cz.martlin.cptesting.SomeServerConfig.host=127.0.0.1
+cz.martlin.cptesting.SomeServerConfig.port=i-dont-know-what-it-means
+cz.martlin.cptesting.SomeServerConfig.home=home.html

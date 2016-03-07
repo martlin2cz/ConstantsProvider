@@ -7,7 +7,7 @@
 	<name>Constants Provider</name>
 	<description>Simple library for managing your projects constants. What should be better than having all the constants in one .properties file instead of having them hardcoded in classes?</description>
 
-		<developers>
+	<developers>
 		<developer>
 			<email>martlin2cz@gmail.com</email>
 			<name>m@rtlin</name>
@@ -24,6 +24,21 @@
 			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- LOGGING API -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+			<version>1.7.18</version>
+		</dependency>
+
+		<!-- XXX, only for testing -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-simple</artifactId>
+			<version>1.7.18</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
